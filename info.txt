@@ -1,0 +1,31 @@
+Layer 2 Devices in the OSI Model
+---------------------------------
+
+1. Switches:
+- Connect multiple devices within a network.
+- Operate at the Data Link Layer to forward frames based on MAC addresses.
+- Reduce network congestion by creating separate collision domains for each connected device.
+
+2. Bridges:
+- Connect and filter traffic between two or more network segments.
+- Operate at the Data Link Layer to forward data based on MAC addresses.
+- Used to reduce network congestion by dividing larger networks into smaller segments.
+
+3. Network Interface Cards (NICs):
+- Allow devices to connect to a network.
+- Operate at both the Physical Layer and the Data Link Layer.
+- Responsible for addressing and framing data to be sent over the network.
+
+4. Wireless Access Points (WAPs):
+- Connect wireless devices to a wired network.
+- Operate at the Data Link Layer to manage wireless communications.
+- Provide network access to Wi-Fi-enabled devices.
+
+5. MAC Address Tables:
+- Used by switches and bridges to make forwarding decisions.
+- Operate at the Data Link Layer by mapping MAC addresses to specific network ports.
+
+6. VLANs (Virtual Local Area Networks):
+- Logical segmentation of networks.
+- Operate at the Data Link Layer to manage traffic based on VLAN tags.
+- Improve network management

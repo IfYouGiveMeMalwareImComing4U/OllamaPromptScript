@@ -1,0 +1,3 @@
+chromadb
+langchain_ollama
+langchain_chroma
